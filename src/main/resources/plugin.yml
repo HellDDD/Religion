@@ -1,0 +1,10 @@
+name: Religion
+version: '${project.version}'
+main: pax.religionwithtowny.Religion
+api-version: '1.19'
+authors: [Sinister]
+description: religion
+commands:
+  religions:
+    description: Choose a religion for your city
+    usage: /<command>
